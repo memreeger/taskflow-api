@@ -1,0 +1,21 @@
+{
+  "name": "taskflow-api",
+  "version": "1.0.0",
+  "description": "Node.js ve Express ile geliştirilmiş basit görev yönetim REST API'si",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Emre",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
