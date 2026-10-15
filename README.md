@@ -132,7 +132,13 @@ Endpointleri Postman ile şu sırayla test ettim:
 4. PUT ile görev güncelleme
 5. DELETE ile görev silme
 
-Test ekran görüntüleri `docs/screenshots` klasörüne eklenecektir.
+Test ekran görüntüleri `docs/screenshots` klasöründedir:
+
+- `post_SS.png`: görev ekleme
+- `getAll_SS.png`: bütün görevleri listeleme
+- `getById_SS.png`: tek görev getirme
+- `updateTask_SS.png`: görev güncelleme
+- `deleteTask_SS.png`: görev silme
 
 ## Not
 

@@ -52,7 +52,7 @@ Projede basit bir logger middleware bulunmaktadır. API'ye gelen her isteğin me
 
 ## Test süreci
 
-CRUD endpointleri Postman üzerinden sırasıyla görev ekleme, listeleme, detay görüntüleme, güncelleme ve silme işlemleriyle test edilmektedir. Test ekran görüntüleri `docs/screenshots` klasöründe saklanacaktır.
+CRUD endpointleri Postman üzerinden sırasıyla görev ekleme, listeleme, detay görüntüleme, güncelleme ve silme işlemleriyle test edildi. Test ekran görüntüleri `docs/screenshots` klasöründe saklanmaktadır.
 
 ## Projenin kapsamı
 
